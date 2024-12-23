@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(5, 186, 5);
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: rgb(0, 106, 255);
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: darkred;
+    font-size: 1.75em;
+    margin-bottom: 10px;
+}
+
+#hh3 {
+    color: fuchsia;
+}
+
+a {
+    text-decoration: none;
+}
+
+#aa1 {
+    color: rgb(255, 0, 255)
+}
+
+#aa1:hover {
+    color: red;
+}
+
+#aa2 {
+    color: rgb(0, 255, 162);
+}
+
+#aa2:hover {
+    color: red;
+}
+
+#aa3 {
+    color: gold;
+}
+
+#aa3:hover {
+
+    color: red;
+}
+#body2{
+    background-color: pink;
+}
+#body4{
+    background-color: gold;
+}
+#body3{
+    background-color: rgb(255, 0, 0);
+}
